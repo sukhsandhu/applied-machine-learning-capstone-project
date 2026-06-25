@@ -1,0 +1,34 @@
+{
+  "rows": 569,
+  "columns": 32,
+  "accuracy": 0.986013986013986,
+  "malignant_precision": 0.9811320754716981,
+  "malignant_recall": 0.9811320754716981,
+  "benign_precision": 0.9888888888888889,
+  "benign_recall": 0.9888888888888889,
+  "roc_auc": 0.9976939203354298,
+  "confusion_matrix": [
+    [
+      52,
+      1
+    ],
+    [
+      1,
+      89
+    ]
+  ],
+  "top_features": [
+    "worst texture",
+    "radius error",
+    "worst symmetry",
+    "worst concave points",
+    "area error",
+    "worst area",
+    "worst radius",
+    "worst concavity",
+    "worst perimeter",
+    "mean compactness",
+    "mean concave points",
+    "worst smoothness"
+  ]
+}
