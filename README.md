@@ -2,7 +2,7 @@
 
 Author: Sukh Sandhu
 
-Run `machine_learning_model.ipynb` after installing `requirements.txt`. The project trains a standardized logistic-regression classifier on the Breast Cancer Wisconsin Diagnostic dataset and saves evaluation figures plus `outputs/metrics.json`.
+Run `modeling.ipynb` after installing `requirements.txt`. `machine_learning_model.ipynb` is the same completed notebook retained as a descriptive working filename. The project trains a standardized logistic-regression classifier on the Breast Cancer Wisconsin Diagnostic dataset and saves evaluation figures plus `outputs/metrics.json`.
 
 ## Public GitHub Repository
 
