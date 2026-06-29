@@ -2,16 +2,20 @@ Public GitHub Repository Evidence
 
 Author: Sukh Sandhu
 Repository: https://github.com/sukhsandhu/applied-machine-learning-capstone-project
+Evidence refreshed: 2026-06-29
 
 Branches:
-development
+  development
 * main
   remotes/origin/development
   remotes/origin/main
 
-Commit history:
-* 602edde (HEAD -> main) Add public GitHub repository link
-* 5c811e6 (origin/main) Document repository evidence
+Substantive commit history:
+* 33dac83 (HEAD -> main, origin/main) Fix notebook execution indentation
+* 77daaf8 Add Udacity submission filename aliases
+* ab04706 Add public GitHub repository link
+* 602edde Add public GitHub repository link
+* 5c811e6 Document repository evidence
 *   1f64629 Merge development evidence
 |\  
 | * 73bdb2e (origin/development, development) Add development branch notes
@@ -19,4 +23,4 @@ Commit history:
 * 2967e99 Initial capstone project structure
 
 Rubric note:
-The public repository includes multiple commits on main and an additional development branch.
+The public repository includes multiple commits on main and an additional development branch. The notebook execution fix is included in the commit history. A final evidence-refresh commit may appear above the material commits because this file is updated after the notebook fixes are prepared.
